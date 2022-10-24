@@ -1,0 +1,13 @@
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/00_create_datbase.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/01_create_customers.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/02_create_addresses.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/03_create_pizzas.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/04_create_sizes.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/05_create_prices.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/06_create_orders.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/07_create_order_details.sql
+C:/Users/user/Intro_Dev/sql-test-Y-X-X-S/migrations/08_seed_data.sql
+
+
+
+C:\Users\user\Intro_Dev\sql-test-Y-X-X-S\queryes\02_max_quantity.sql
